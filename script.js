@@ -1,5 +1,4 @@
 //your JS code here. If required.
-//your JS code here. If required.
 // Get form elements
 const fontSizeInput = document.getElementById("fontsize");
 const fontColorInput = document.getElementById("fontcolor");
